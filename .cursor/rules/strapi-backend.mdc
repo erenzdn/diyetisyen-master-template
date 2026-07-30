@@ -1,0 +1,12 @@
+---
+description: Strapi v5 backend conventions for content types and appointments
+globs: backend/**
+alwaysApply: false
+---
+
+# Backend Guidelines (Strapi)
+
+- Strapi runs in `/backend`.
+- Keep Content-Types simple and intuitive for non-technical dietitians.
+- Use lifecycle hooks or custom controllers for appointment validation (e.g. slot availability checks).
+- Prefer clear, domain-friendly field names over technical jargon in Content-Type schemas.

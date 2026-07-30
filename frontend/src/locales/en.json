@@ -1,0 +1,251 @@
+{
+  "meta": {
+    "homeTitle": "Dietitian Selin Yılmaz | Healthy Living Coaching",
+    "homeDescription": "Personalized nutrition plans, online coaching, and science-backed guidance. Book your appointment and take the first step toward healthier living.",
+    "servicesTitle": "Services | Dietitian Selin Yılmaz",
+    "servicesDescription": "Explore online nutrition coaching, in-clinic consultations, and sports nutrition packages. Pick a date and book online.",
+    "contactTitle": "Contact | Dietitian Selin Yılmaz",
+    "contactDescription": "Get in touch with Dietitian Selin Yılmaz. Phone, email, clinic address, and contact form."
+  },
+  "common": {
+    "bookAppointment": "Book Appointment",
+    "currency": "₺{price}",
+    "close": "Close",
+    "menu": "Menu",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "submitting": "Sending…",
+    "language": "Language",
+    "switchToTr": "Türkçe",
+    "switchToEn": "English",
+    "loading": "Preparing…"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "testimonials": "Reviews",
+    "contact": "Contact"
+  },
+  "dietitian": {
+    "name": "Dietitian Selin Yılmaz",
+    "shortName": "Selin Yılmaz",
+    "title": "Registered Dietitian & Nutrition Coach",
+    "bio": "I guide clients toward lasting health goals with evidence-based nutrition and sustainable habits. Every metabolism, lifestyle, and preference is unique—so every plan I create is built around you.",
+    "signature": "Selin Yılmaz",
+    "address": "Bağdat Cad. No:142, Kadıköy / Istanbul",
+    "aboutImageAlt": "{name} in the clinic",
+    "advantages": {
+      "metabolism": "Personalized metabolism assessment",
+      "plans": "Sustainable nutrition plans",
+      "support": "24/7 WhatsApp support",
+      "progress": "Measurable progress tracking"
+    }
+  },
+  "hero": {
+    "headlineBefore": "Take the",
+    "headlineHighlight": "First Step",
+    "headlineAfter": "Toward Healthy Living",
+    "description": "Reach your goals with personalized nutrition plans, a science-backed approach, and ongoing support. Start your healthy living journey with {name} today.",
+    "ctaPrimary": "Book Appointment",
+    "ctaSecondary": "Our Services"
+  },
+  "about": {
+    "eyebrow": "About Me",
+    "headline": "Turning healthy eating into a lasting lifestyle",
+    "experienceLabel": "Years of Experience"
+  },
+  "features": {
+    "customDiet": {
+      "title": "Personalized Diet Plans",
+      "description": "Sustainable nutrition programs tailored to your lifestyle, goals, and preferences."
+    },
+    "onlineTracking": {
+      "title": "Online Coaching",
+      "description": "Manage your progress from anywhere with weekly check-ins, measurement tracking, and instant messaging."
+    },
+    "recipes": {
+      "title": "Healthy Recipes",
+      "description": "Transform your kitchen with practical, delicious, and balanced recipes that build lasting habits."
+    }
+  },
+  "services": {
+    "eyebrow": "Services",
+    "headline": "Choose the coaching package that fits you",
+    "description": "Online or in person—select the package that matches your goals and book your appointment in minutes.",
+    "selectAppointment": "Select & Book",
+    "viewAllDetails": "View all service details",
+    "pageHeadline": "In-depth coaching packages",
+    "pageDescription": "Review what’s included in each package, pick the right fit, and book your appointment with a date that works for you.",
+    "forWhom": "Best for:",
+    "includes": "What’s included",
+    "process": "How it works",
+    "sessionDuration": "Session length: {duration}",
+    "bookWithDate": "Pick a Date & Book",
+    "items": {
+      "online": {
+        "title": "Online Nutrition Coaching",
+        "description": "Video consultation, a personalized meal plan, and weekly online follow-up.",
+        "longDescription": "An end-to-end online coaching package designed for busy professionals and clients outside the city. In the first session we dig into your goals, health history, and lifestyle—then I build a nutrition plan just for you. Weekly check-ins and messaging support keep progress on track together.",
+        "duration": "45 min",
+        "audience": "Remote clients, busy professionals, and anyone who prefers at-home coaching",
+        "includes": {
+          "0": "45-minute video consultation",
+          "1": "Personalized 7–14 day meal plan",
+          "2": "Weekly online check-in",
+          "3": "WhatsApp Q&A support",
+          "4": "Progress and measurement tracking"
+        },
+        "process": {
+          "0": "Complete a pre-session intake form",
+          "1": "Assessment during the video call",
+          "2": "Receive your plan within 24–48 hours",
+          "3": "Stay on track with weekly follow-ups"
+        }
+      },
+      "klinik": {
+        "title": "In-Clinic Consultation",
+        "description": "Detailed body analysis, measurements, and one-on-one coaching in a clinical setting.",
+        "longDescription": "A comprehensive in-person session at the Kadıköy clinic. We start with body composition analysis, anthropometric measurements, and a lifestyle review. By the end of the session you’ll leave with a sustainable nutrition strategy and a clear follow-up plan.",
+        "duration": "60 min",
+        "audience": "First-time clients, those who want detailed measurements, and anyone who prefers face-to-face coaching",
+        "includes": {
+          "0": "60-minute clinic session",
+          "1": "Body analysis and measurements",
+          "2": "Personal nutrition assessment",
+          "3": "Goal-focused diet strategy",
+          "4": "First-week follow-up plan"
+        },
+        "process": {
+          "0": "Book your clinic appointment",
+          "1": "Complete measurements and assessment",
+          "2": "Finalize your nutrition plan together",
+          "3": "Set your follow-up schedule"
+        }
+      },
+      "sporcu": {
+        "title": "Sports Nutrition",
+        "description": "Training-cycle macro planning and performance-focused nutrition strategies.",
+        "longDescription": "A package built for athletes chasing performance, muscle gain, or competition prep. Macro and micronutrient targets are planned around your training load, sport, and phase goals. Pre- and post-workout fueling plus recovery strategies are part of the program.",
+        "duration": "60 min",
+        "audience": "Active athletes, fitness enthusiasts, and competition or performance prep",
+        "includes": {
+          "0": "60-minute performance-focused session",
+          "1": "Macro and timing plan",
+          "2": "Training-day meal examples",
+          "3": "Recovery and hydration guidance",
+          "4": "Phase-based plan revisions"
+        },
+        "process": {
+          "0": "Training and goal analysis",
+          "1": "Calculate macro needs",
+          "2": "Build your daily/weekly plan",
+          "3": "Track performance and refine"
+        }
+      }
+    }
+  },
+  "testimonials": {
+    "eyebrow": "Client Stories",
+    "headline": "Real results, real journeys",
+    "prev": "Previous review",
+    "next": "Next review",
+    "dot": "Review {index}",
+    "roles": {
+      "client": "Client",
+      "athlete": "Athlete"
+    },
+    "items": {
+      "1": {
+        "result": "Lost 12 kg",
+        "quote": "I lost 12 kg in 3 months—and the best part is I did it without starving, enjoying every step. Selin was with me the whole way."
+      },
+      "2": {
+        "result": "Muscle + Performance",
+        "quote": "With a nutrition plan built around my training, I lowered my body fat and saw a clear jump in performance."
+      },
+      "3": {
+        "result": "Lost 8 kg",
+        "quote": "Online coaching kept me consistent even with a packed work schedule. The recipes are practical and delicious!"
+      },
+      "4": {
+        "result": "Lasting Habits",
+        "quote": "I wanted lasting habits—not just weight loss. This program was exactly what I needed."
+      }
+    }
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "headline": "Let’s get in touch",
+    "description": "Whether you have questions, want to book, or need guidance on your nutrition journey—I’m here to help.",
+    "phone": "Phone",
+    "email": "Email",
+    "address": "Address",
+    "formTitle": "Send a message",
+    "formSubtitle": "Fill out the form and I’ll get back to you as soon as I can.",
+    "successTitle": "Message received",
+    "successMessage": "Thank you! I’ll be in touch shortly.",
+    "sendAnother": "Send another message",
+    "fullName": "Full name",
+    "fullNamePlaceholder": "Your full name",
+    "phonePlaceholder": "+90 XXX XXX XX XX",
+    "emailPlaceholder": "you@email.com",
+    "subject": "Subject",
+    "subjectPlaceholder": "Appointment, coaching, etc.",
+    "message": "Your message",
+    "messagePlaceholder": "Tell me briefly how I can help…",
+    "submit": "Send Message",
+    "workingHours": "Office Hours",
+    "clinicLocation": "Clinic Location",
+    "openInMaps": "Open in Maps"
+  },
+  "workingHours": {
+    "weekdays": "Monday – Friday",
+    "saturday": "Saturday",
+    "sunday": "Sunday",
+    "weekdayHours": "09:00 – 18:00",
+    "saturdayHours": "09:00 – 14:00",
+    "closed": "Closed"
+  },
+  "booking": {
+    "closeModal": "Close modal",
+    "pickService": "Booking · Choose package",
+    "pickServiceTitle": "Choose a package",
+    "pickServiceHint": "Select the consultation package you’d like to book.",
+    "stepLabel": "Booking · Step {step}/3",
+    "selectDate": "Pick a date",
+    "prevMonth": "Previous month",
+    "nextMonth": "Next month",
+    "selectTime": "Pick a time slot",
+    "pickDateFirst": "Select a date first",
+    "continue": "Continue",
+    "fullName": "Full name",
+    "fullNamePlaceholder": "Your full name",
+    "phone": "Phone",
+    "phonePlaceholder": "+90 XXX XXX XX XX",
+    "email": "Email",
+    "emailPlaceholder": "you@email.com",
+    "confirm": "Confirm Appointment",
+    "successTitle": "You’re Booked",
+    "successMessage": "<nameTag>{name}</nameTag>, your appointment for {service} on <datetimeTag>{datetime}</datetimeTag> is confirmed. We’ll reach out shortly.",
+    "done": "Done",
+    "weekdays": {
+      "mon": "Mo",
+      "tue": "Tu",
+      "wed": "We",
+      "thu": "Th",
+      "fri": "Fr",
+      "sat": "Sa",
+      "sun": "Su"
+    }
+  },
+  "footer": {
+    "tagline": "I’m with you on your healthy living journey—with science-backed nutrition coaching.",
+    "contactLink": "Go to contact page →",
+    "quickLinks": "Quick Links",
+    "workingHours": "Office Hours",
+    "contact": "Contact",
+    "rights": "© {year} {name}. All rights reserved.",
+    "motto": "Science-backed nutrition for healthy living."
+  }
+}

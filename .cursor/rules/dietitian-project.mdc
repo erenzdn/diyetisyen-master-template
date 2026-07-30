@@ -1,0 +1,11 @@
+---
+description: White-label dietitian platform architecture and general context
+alwaysApply: true
+---
+
+# Dietitian Project Context
+
+- White-label dietitian web application platform.
+- Architecture: Strapi v5 Headless CMS (`/backend`) + Next.js App Router with TypeScript and Tailwind CSS (`/frontend`).
+- Keep solutions suitable for non-technical dietitians managing content in Strapi.
+- Prefer clinical, clean UX (emerald, teal, slate) across the product.

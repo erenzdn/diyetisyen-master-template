@@ -1,0 +1,13 @@
+---
+description: Next.js App Router frontend conventions for UI and components
+globs: frontend/**
+alwaysApply: false
+---
+
+# Frontend Guidelines (Next.js)
+
+- Next.js runs in `/frontend` using App Router (`src/app`).
+- Use Tailwind CSS with emerald, teal, and slate for a modern clinical UI.
+- Use TypeScript with strict typing.
+- Put reusable UI in `/frontend/src/components`.
+- Prefer Server Components; add `'use client'` only for interactive forms (appointment booking, contact form, etc.).

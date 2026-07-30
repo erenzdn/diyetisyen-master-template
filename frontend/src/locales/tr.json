@@ -1,0 +1,251 @@
+{
+  "meta": {
+    "homeTitle": "Diyetisyen Selin Yılmaz | Sağlıklı Yaşam Danışmanlığı",
+    "homeDescription": "Kişiye özel diyet programları, online takip ve bilimsel beslenme danışmanlığı. Randevu alın, sağlıklı yaşama ilk adımı atın.",
+    "servicesTitle": "Hizmetler | Diyetisyen Selin Yılmaz",
+    "servicesDescription": "Online diyet, klinik yüz yüze ve sporcu beslenmesi paketlerini inceleyin. Tarih seçerek online randevu alın.",
+    "contactTitle": "İletişim | Diyetisyen Selin Yılmaz",
+    "contactDescription": "Diyetisyen Selin Yılmaz ile iletişime geçin. Telefon, e-posta, klinik adresi ve iletişim formu."
+  },
+  "common": {
+    "bookAppointment": "Randevu Al",
+    "currency": "{price} ₺",
+    "close": "Kapat",
+    "menu": "Menü",
+    "openMenu": "Menüyü aç",
+    "closeMenu": "Menüyü kapat",
+    "submitting": "Gönderiliyor…",
+    "language": "Dil",
+    "switchToTr": "Türkçe",
+    "switchToEn": "English",
+    "loading": "Hazırlanıyor…"
+  },
+  "nav": {
+    "home": "Anasayfa",
+    "about": "Hakkımda",
+    "services": "Hizmetler",
+    "testimonials": "Yorumlar",
+    "contact": "İletişim"
+  },
+  "dietitian": {
+    "name": "Diyetisyen Selin Yılmaz",
+    "shortName": "Selin Yılmaz",
+    "title": "Uzman Diyetisyen & Beslenme Koçu",
+    "bio": "Beslenme bilimi ve sürdürülebilir alışkanlıklarla danışanlarıma uzun vadeli sağlık hedeflerine ulaşmalarında rehberlik ediyorum. Her bireyin metabolizması, yaşam tarzı ve tercihleri farklıdır; bu yüzden programlarımı kişiye özel tasarlarım.",
+    "signature": "Selin Yılmaz",
+    "address": "Bağdat Cad. No:142, Kadıköy / İstanbul",
+    "aboutImageAlt": "{name} klinik ortamda",
+    "advantages": {
+      "metabolism": "Kişiye özel metabolizma analizi",
+      "plans": "Sürdürülebilir beslenme planları",
+      "support": "7/24 WhatsApp destek hattı",
+      "progress": "Ölçülebilir ilerleme takibi"
+    }
+  },
+  "hero": {
+    "headlineBefore": "Sağlıklı Yaşama",
+    "headlineHighlight": "İlk Adımı",
+    "headlineAfter": "Atın",
+    "description": "Kişiye özel beslenme programları, bilimsel yaklaşım ve sürekli destek ile hedeflerinize ulaşın. {name} ile sağlıklı yaşam yolculuğunuza bugün başlayın.",
+    "ctaPrimary": "Randevu Al",
+    "ctaSecondary": "Hizmetlerimiz"
+  },
+  "about": {
+    "eyebrow": "Hakkımda",
+    "headline": "Sağlıklı beslenmeyi yaşam tarzına dönüştürüyorum",
+    "experienceLabel": "Yıllık Deneyim"
+  },
+  "features": {
+    "customDiet": {
+      "title": "Kişiye Özel Diyet",
+      "description": "Yaşam tarzınıza, hedeflerinize ve tercihlerinize göre hazırlanan sürdürülebilir beslenme programları."
+    },
+    "onlineTracking": {
+      "title": "Online Takip",
+      "description": "Haftalık check-in, ölçüm takibi ve anlık mesajlaşma ile sürecinizi her yerden yönetin."
+    },
+    "recipes": {
+      "title": "Sağlıklı Tarifler",
+      "description": "Pratik, lezzetli ve dengeli tariflerle mutfağınızı sağlıklı alışkanlıklarla dönüştürün."
+    }
+  },
+  "services": {
+    "eyebrow": "Hizmetler",
+    "headline": "Size uygun danışmanlık paketini seçin",
+    "description": "Online veya yüz yüze; hedefinize uygun paketi seçerek hemen randevu oluşturabilirsiniz.",
+    "selectAppointment": "Randevu Seç",
+    "viewAllDetails": "Tüm hizmet detaylarını gör",
+    "pageHeadline": "Detaylı danışmanlık paketleri",
+    "pageDescription": "Her paketin kapsamını inceleyin, size uygun olanı seçin ve tarih belirleyerek hemen randevu oluşturun.",
+    "forWhom": "Kimler için:",
+    "includes": "Pakete dahil",
+    "process": "Süreç",
+    "sessionDuration": "Seans süresi: {duration}",
+    "bookWithDate": "Tarih Seç & Randevu Al",
+    "items": {
+      "online": {
+        "title": "Online Diyet Danışmanlığı",
+        "description": "Video görüşme ile değerlendirme, kişiselleştirilmiş menü planı ve haftalık online takip.",
+        "longDescription": "Yoğun temposu olan veya farklı şehirde yaşayan danışanlar için tasarlanmış uçtan uca online danışmanlık paketidir. İlk görüşmede hedeflerinizi, sağlık geçmişinizi ve yaşam tarzınızı detaylı dinler; ardından size özel bir beslenme planı hazırlarım. Süreciniz boyunca haftalık check-in’ler ve mesaj desteği ile ilerlemeyi birlikte takip ederiz.",
+        "duration": "45 dk",
+        "audience": "Evden takip isteyenler, çalışan profesyoneller, şehir dışı danışanlar",
+        "includes": {
+          "0": "45 dakikalık video görüşme",
+          "1": "Kişiye özel 7–14 günlük menü planı",
+          "2": "Haftalık online check-in",
+          "3": "WhatsApp üzerinden soru desteği",
+          "4": "İlerleme ve ölçüm takibi"
+        },
+        "process": {
+          "0": "Ön bilgi formu doldurulur",
+          "1": "Video görüşmede değerlendirme yapılır",
+          "2": "Kişisel plan 24–48 saat içinde iletilir",
+          "3": "Haftalık takip ile süreç yönetilir"
+        }
+      },
+      "klinik": {
+        "title": "Klinik Yüz Yüze",
+        "description": "Klinik ortamda detaylı vücut analizi, ölçüm ve birebir danışmanlık seansı.",
+        "longDescription": "Kadıköy kliniğinde yüz yüze gerçekleşen kapsamlı danışmanlık seansıdır. Vücut analizi, antropometrik ölçümler ve yaşam tarzı değerlendirmesiyle başlarız. Seans sonunda hedeflerinize uygun, sürdürülebilir bir beslenme stratejisi oluşturur; takip planını birlikte netleştiririz.",
+        "duration": "60 dk",
+        "audience": "Detaylı ölçüm isteyenler, ilk kez danışmanlık alanlar, yüz yüze iletişimi tercih edenler",
+        "includes": {
+          "0": "60 dakikalık klinik seans",
+          "1": "Vücut analizi ve ölçüm",
+          "2": "Kişisel beslenme değerlendirmesi",
+          "3": "Hedefe özel diyet stratejisi",
+          "4": "İlk hafta takip planı"
+        },
+        "process": {
+          "0": "Klinik randevusu oluşturulur",
+          "1": "Ölçüm ve değerlendirme yapılır",
+          "2": "Beslenme planı birlikte netleştirilir",
+          "3": "Takip aralıkları belirlenir"
+        }
+      },
+      "sporcu": {
+        "title": "Sporcu Beslenmesi",
+        "description": "Antrenman dönemine özel makro planlama, performans odaklı beslenme stratejileri.",
+        "longDescription": "Performans, kas kazanımı veya yarış hazırlığı hedefleyen sporcular için özel olarak kurgulanmış bir pakettir. Antrenman yoğunluğunuza, branşınıza ve dönem hedeflerinize göre makro/mikro besin dağılımı planlanır. Antrenman öncesi-sonrası beslenme ve toparlanma stratejileri de programa dahil edilir.",
+        "duration": "60 dk",
+        "audience": "Aktif sporcular, fitness meraklıları, yarış/performans hazırlığı yapanlar",
+        "includes": {
+          "0": "60 dakikalık performans odaklı seans",
+          "1": "Makro ve zamanlama planı",
+          "2": "Antrenman günü menü örnekleri",
+          "3": "Toparlanma ve hidrasyon önerileri",
+          "4": "Dönemsel plan revizyonu"
+        },
+        "process": {
+          "0": "Antrenman ve hedef analizi",
+          "1": "Makro ihtiyaçlarının hesaplanması",
+          "2": "Günlük/haftalık planın oluşturulması",
+          "3": "Performans takibi ve güncelleme"
+        }
+      }
+    }
+  },
+  "testimonials": {
+    "eyebrow": "Danışan Yorumları",
+    "headline": "Gerçek başarı hikayeleri",
+    "prev": "Önceki yorum",
+    "next": "Sonraki yorum",
+    "dot": "Yorum {index}",
+    "roles": {
+      "client": "Danışan",
+      "athlete": "Sporcu"
+    },
+    "items": {
+      "1": {
+        "result": "12 Kilo Verdim",
+        "quote": "3 ayda 12 kilo verdim ve en önemlisi bu süreci aç kalmadan, keyifle tamamladım. Selin Hanım her adımda yanımdaydı."
+      },
+      "2": {
+        "result": "Kas + Performans",
+        "quote": "Antrenmanlarıma özel beslenme planı sayesinde hem yağ oranım düştü hem de performansım belirgin şekilde arttı."
+      },
+      "3": {
+        "result": "8 Kilo Verdim",
+        "quote": "Online takip sayesinde yoğun iş temposunda bile düzenimi bozmadım. Tarifler çok pratik ve lezzetli!"
+      },
+      "4": {
+        "result": "Sağlıklı Alışkanlık",
+        "quote": "Sadece kilo vermek değil, kalıcı alışkanlıklar kazanmak istedim. Program tam ihtiyacım olan şeydi."
+      }
+    }
+  },
+  "contact": {
+    "eyebrow": "İletişim",
+    "headline": "Benimle iletişime geçin",
+    "description": "Sorularınız, randevu talepleriniz veya beslenme süreciniz hakkında her konuda size yardımcı olmaktan memnuniyet duyarım.",
+    "phone": "Telefon",
+    "email": "E-posta",
+    "address": "Adres",
+    "formTitle": "Mesaj gönderin",
+    "formSubtitle": "Formu doldurun, en kısa sürede size dönüş yapayım.",
+    "successTitle": "Mesajınız alındı",
+    "successMessage": "Teşekkürler! En kısa sürede sizinle iletişime geçeceğim.",
+    "sendAnother": "Yeni mesaj gönder",
+    "fullName": "Ad Soyad",
+    "fullNamePlaceholder": "Adınız Soyadınız",
+    "phonePlaceholder": "05XX XXX XX XX",
+    "emailPlaceholder": "ornek@mail.com",
+    "subject": "Konu",
+    "subjectPlaceholder": "Randevu, danışmanlık vb.",
+    "message": "Mesajınız",
+    "messagePlaceholder": "Kısaca talebinizi yazın...",
+    "submit": "Mesajı Gönder",
+    "workingHours": "Çalışma Saatleri",
+    "clinicLocation": "Klinik Konumu",
+    "openInMaps": "Haritada Aç"
+  },
+  "workingHours": {
+    "weekdays": "Pazartesi – Cuma",
+    "saturday": "Cumartesi",
+    "sunday": "Pazar",
+    "weekdayHours": "09:00 – 18:00",
+    "saturdayHours": "09:00 – 14:00",
+    "closed": "Kapalı"
+  },
+  "booking": {
+    "closeModal": "Modalı kapat",
+    "pickService": "Randevu · Paket seçimi",
+    "pickServiceTitle": "Paket seçin",
+    "pickServiceHint": "Randevu almak istediğiniz danışmanlık paketini seçin.",
+    "stepLabel": "Randevu · Adım {step}/3",
+    "selectDate": "Tarih seçin",
+    "prevMonth": "Önceki ay",
+    "nextMonth": "Sonraki ay",
+    "selectTime": "Saat dilimi seçin",
+    "pickDateFirst": "Önce bir tarih seçin",
+    "continue": "Devam Et",
+    "fullName": "Ad Soyad",
+    "fullNamePlaceholder": "Adınız Soyadınız",
+    "phone": "Telefon",
+    "phonePlaceholder": "05XX XXX XX XX",
+    "email": "E-posta",
+    "emailPlaceholder": "ornek@mail.com",
+    "confirm": "Randevuyu Onayla",
+    "successTitle": "Randevunuz Alındı",
+    "successMessage": "<nameTag>{name}</nameTag>, {service} için <datetimeTag>{datetime}</datetimeTag> randevunuz oluşturuldu. En kısa sürede sizinle iletişime geçeceğiz.",
+    "done": "Tamam",
+    "weekdays": {
+      "mon": "Pt",
+      "tue": "Sa",
+      "wed": "Ça",
+      "thu": "Pe",
+      "fri": "Cu",
+      "sat": "Ct",
+      "sun": "Pz"
+    }
+  },
+  "footer": {
+    "tagline": "Bilimsel beslenme danışmanlığı ile sağlıklı yaşam yolculuğunuzda yanınızdayım.",
+    "contactLink": "İletişim sayfasına git →",
+    "quickLinks": "Hızlı Linkler",
+    "workingHours": "Çalışma Saatleri",
+    "contact": "İletişim",
+    "rights": "© {year} {name}. Tüm hakları saklıdır.",
+    "motto": "Sağlıklı yaşam için bilimsel beslenme."
+  }
+}
