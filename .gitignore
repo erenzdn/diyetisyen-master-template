@@ -16,3 +16,6 @@ Thumbs.db
 *.log
 .turbo/
 .cache/
+
+# Docker
+*.override.yml
